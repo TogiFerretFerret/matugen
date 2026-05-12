@@ -1,0 +1,12 @@
+[config]
+reload_apps = false
+set_wallpaper = false
+prefix = ""
+
+[templates.colors]
+input_path = "~/.config/matugen/templates/colors.json"
+output_path = "~/.cache/wal/colors.json"
+
+[templates.discord]
+input_path = "~/.config/matugen/templates/discord.css"
+output_path = "~/.config/legcord/quickCss.css"
